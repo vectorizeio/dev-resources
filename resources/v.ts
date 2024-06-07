@@ -95,4 +95,9 @@ export const resources: Resource[] = [
             'Search over 5000 vector illustrations and more than 70 design styles, with an integrated editor to adjust the design at you wish.',
         url: 'https://www.artify.co/vector-illustrations',
     },
-]
+{
+        name: 'Vectorize',
+        categories: ['Data Science', 'Data Analysis'],
+        description:
+            'Fast, Accurate, Production-Ready RAG Pipelines',
+        url: 'https://vectorize.io/',
